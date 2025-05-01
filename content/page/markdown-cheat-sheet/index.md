@@ -1,216 +1,39 @@
 ---
-title: "Markdown Cheat Sheet Ⓜ️⬇️"
-description: "An overview of basic markdown syntax."
+title: "AmazonExplorer expands to Ebay ⛺🛒"
+description: "A Chrome extension for smarter online shopping—now with eBay review support!"
 draft: true
 tags: ["Featured"]
-images: ["markdown-guide-og.jpg"]
-keywords: ["markdown cheat sheet","markdown","cheat sheet", "hugo markdown cheat sheet", "goldmark"]
+images: ["amazonexplorer-og.jpg"]
+keywords: ["chrome extension", "AmazonExplorer", "product reviews", "eBay reviews", "shopping assistant"]
 aliases:
-  - blog/my-third-blog-post
+  - blog/amazonexplorer-update
 ---
 
-# Markdown Cheat Sheet
+# AmazonExplorer Chrome Extension
 
-Hugo has excellent Markdown support out of the box. By default, Hugo uses the [Goldmark Markdown processor](https://github.com/yuin/goldmark/) which is fully CommonMark-compliant. See the [configuration instructions](https://gohugo.io/getting-started/configuration-markup/) to learn more about the extensions you can configure.
+AmazonExplorer is your personal shopping research assistant. It surfaces verified, structured reviews for products across online marketplaces to help you make smarter buying decisions. And now, it's even better—with support for **eBay reviews** just added.
 
 ## Overview
 
-You can refer to the table below for an overview of basic markdown syntax:
+You can refer to the table below for an overview of key AmazonExplorer features:
 
-| TASK           | MARKDOWN SYNTAX                  |
-| -------------- | -------------------------------- |
-| Heading 1      | `#`                              |
-| Heading 2      | `##`                             |
-| Heading 3      | `###`                            |
-| Italics        | `*italics*`                      |
-| Bold           | `**Bold**`                       |
-| Strike         | `~~strike~~`                     |
-| Blockquote     | `>`                              |
-| Links          | `[link name](https://link.com)`  |
-| Images         | `![Image name](image.png)`       |
-| Unordered list | `* List item`                    |
-| Ordered list   | `1. List item`                   |
-| Inline Code    | <code>\`insert code here\`<code> |
+| FEATURE              | WHAT IT DOES                                        |
+| -------------------- | -------------------------------------------------- |
+| Amazon Review Parser | Shows detailed, real-time insights on any product |
+| eBay Review Support  | NEW: Displays reviews for eBay listings           |
+| Rating Comparison    | Compares cross-platform product ratings           |
+| Extension Overlay    | Simple UI embedded directly in Amazon/eBay pages  |
+| Verified Highlight   | Highlights authentic and verified reviews         |
 {.table .table-sm .table-striped .table-hover}
 
 ---
 
-## Headings
+## Core Features
 
 ```markdown
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
-```
-
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
-
----
-
-## Lists
-
-```markdown
-* Unordered item
-* Unordered item
-* Unordered item
-
-1. Ordered item
-2. Ordered item
-3. Ordered item
-
-- [ ] Task item
-- [x] Checked Task item
-- [ ] Task item
-```
-
-* Unordered item
-* Unordered item
-* Unordered item
-
-1. Ordered item
-2. Ordered item
-3. Ordered item
-
-- [ ] Task item
-- [x] Checked Task item
-- [ ] Task item
-
----
-
-## Format
-
-```markdown
-**Bold**
-
-*Italic*
-
-<u>Underline</u>
-
-<sup>Superscript</sup>
-
-<sub>Subscript</sub>
-
-<mark>Highlight</mark>
-
-`Inline code`
-
-~~Strikethrough~~
-
-[Hyperlink](http://example.com)
-
-![Image](placeholder-50-09f-fff.png)
-{ .img-fluid }
-```
-
-**Bold**
-
-*Italic*
-
-<u>Underline</u>
-
-<sup>Superscript</sup>
-
-<sub>Subscript</sub>
-
-<mark>Highlight</mark>
-
-`Inline code`
-
-~~Strikethrough~~
-
-[Hyperlink](http://example.com)
-
-![Image](placeholder-50-09f-fff.png)
-{ .img-fluid }
-
----
-
-## Table
-
-```markdown
-| Header 1 | Header 2 |
-| -------- | -------- |
-| Cell 1   | Cell 2   |
-| Cell 3   | Cell 4   |
-```
-
-| Header 1 | Header 2 |
-| -------- | -------- |
-| Cell 1   | Cell 2   |
-| Cell 3   | Cell 4   |
-
----
-
-## Blockquote
-
-```markdown
-> Blockquote  
-> Second line
-> 
->  -- Author
-```
-
-> Blockquote  
-> Second line
-> 
->  -- Author
-
----
-
-## Code Block
-
-`````
-```go
-package main
-
-import "fmt"
-
-func main() {
-    fmt.Println("hello world")
-}
-```
-`````
-
-```go
-package main
-
-import "fmt"
-
-func main() {
-    fmt.Println("hello world")
-}
-```
-
----
-
-## HTML
-
-```markdown
-<div>
-    <p>Hello world</p>
-</div>
-```
-
-<div>
-    <p>Hello world</p>
-</div>
-
----
-
-## See also
-
-- [Hugo Markdown Reference](https://www.markdownguide.org/tools/hugo/)
-- [Bootstrap Typography](https://getbootstrap.com/docs/5.3/content/typography/)
+# Amazon Review Parsing
+## eBay Integration
+### Rating Aggregation
+#### Lightweight Overlay
+##### Verified Review Highlighting
+###### Smart Shopping

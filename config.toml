@@ -1,7 +1,8 @@
 baseURL = 'https://winniewngg.github.io/hugo-mock-landing-page-autodeployed/'
-title = "AmazonExplorer"
-author = "Winnie Wang"
-copyright = "Winnie Wang"
+title = "AmazonExplorer Chrome Extension"
+author = "Winnie Wang, Wesley Liu, Kevin Yang-Li"
+copyright = "Winnie Wang, Wesley Liu, Kevin Yang-Li"
+description = "A Chrome extension that helps you sort through reviews on Amazon and Ebay!"
 
 timeZone = 'Europe/London'
 
