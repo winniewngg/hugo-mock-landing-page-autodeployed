@@ -1,5 +1,5 @@
 baseURL = 'https://winniewngg.github.io/hugo-mock-landing-page-autodeployed/'
-title = "AmazonExplorer Chrome Extension"
+title = "Duck Scraper Chrome Extension"
 author = "Winnie Wang, Wesley Liu, Kevin Yang-Li"
 copyright = "Winnie Wang, Wesley Liu, Kevin Yang-Li"
 description = "A Chrome extension that helps you sort through reviews on Amazon and Ebay!"
