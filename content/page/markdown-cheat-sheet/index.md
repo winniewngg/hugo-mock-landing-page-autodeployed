@@ -1,5 +1,5 @@
 ---
-title: "AmazonExplorer expands to Ebay ⛺🛒"
+title: "Duck Scraper expands to Ebay ⛺🛒"
 description: "A Chrome extension for smarter online shopping—now with eBay review support!"
 draft: true
 tags: ["Featured"]
